@@ -1,3 +1,42 @@
+body {
+    background-color: #f9fafc;
+    font-family: 'Open Sans', sans-serif;
+}
+li {
+    color:  #69696a;
+    text-decoration: none;
+    list-style: none;
+    padding: 4px;
+}
+nav {
+    margin-left: 8px;
+    padding-top: 10px;
+
+}
+
+
+.black {
+    color: #000;
+}
+
+p {
+    color: #69696a; 
+    padding-left: 20px;
+    border-left: 5px solid #69696a;
+}
+
+.button {
+    color: #fff;
+    background-color: #000;
+    text-align: center;
+    padding: 8px;
+    border-radius: 50px;
+}
+
+
 footer {
     background-color: rgba(247, 193, 162, 0.7);
+    margin-top: 100%;
+    width: 100%;
+
 }
